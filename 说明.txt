@@ -9,3 +9,5 @@
 
 浏览器打开  localhost  
 
+图片上传 https://i.niupic.com/
+程序里配置API图片上传, 又拍云
